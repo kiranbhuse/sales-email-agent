@@ -1,0 +1,26 @@
+{
+    "mcpServers": {
+        "brave-search": {
+            "command": "npx",
+            "args": ["-y", "@modelcontextprotocol/server-brave-search"],
+            "env": {"BRAVE_API_KEY": "YOUR_BRAVE_KEY"}
+        },
+        "fetch": {
+            "command": "uvx",
+            "args": ["mcp-server-fetch"]
+        },
+        "sqlite": {
+            "command": "npx",
+            "args": ["-y", "mcp-server-sqlite-npx", "./data/crm.db"]
+        },
+        "filesystem": {
+            "command": "npx",
+            "args": ["-y", "@modelcontextprotocol/server-filesystem",
+            "./templates", "./output"]
+        },
+        "custom-scoring": {
+            "command": "python",
+            "args": ["servers/scoring_server.py"]
+        }
+    }
+}
