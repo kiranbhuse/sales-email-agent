@@ -1,0 +1,12 @@
+# File: templates/email_template.txt
+# The agent reads this via the filesystem MCP server.
+# It uses this as a structural guide when drafting.
+Subject: {{one-line hook referencing recent news or company milestone}}
+Hi {{first_name}},
+{{Opening sentence: reference a specific recent news item or company event}}
+{{Bridge: connect their pain point to the product value in 1-2 sentences}}
+{{Proof: one specific customer outcome or metric}}
+{{Soft CTA: a question or 15-minute ask — not a hard sell}}
+Best,
+{{sender_name}}
+RULES: Under 150 words. Use prospect's first name. Never invent facts.

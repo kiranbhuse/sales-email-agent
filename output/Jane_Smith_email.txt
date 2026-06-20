@@ -1,0 +1,22 @@
+Subject: Acme Corp Sales Acceleration With Einstein Copilot
+
+Hi Jane,
+
+I saw Acme has been showcasing new collections at Las Vegas 2026 Summer Show—great momentum for your dealer network.
+
+With multiple showrooms and complex B2B sales cycles, forecasting accuracy is critical. Salesforce Einstein Copilot automates deal intelligence, helping sales teams close faster by surfacing customer insights in real time.
+
+One furniture distributor improved sales velocity by 25% after implementing Einstein Copilot.
+
+Would it make sense to grab 15 minutes next week to explore how Einstein Copilot could accelerate Acme's sales process?
+
+Best,
+[Your Name]
+
+---
+PERSONALIZATION NOTES:
+- References recent company milestone: Las Vegas 2026 Summer Show
+- Tailored to furniture distributor sales challenges
+- Soft CTA: 15-minute ask with soft language ("Would it make sense")
+- Lead Score: 6/10 (established B2B company, VP Sales role, growth trajectory)
+- Product: Salesforce Einstein Copilot

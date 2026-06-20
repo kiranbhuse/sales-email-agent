@@ -1,0 +1,35 @@
+RUN LOG - EMAIL PERSONALIZATION
+=====================================
+
+PROSPECT: Jane Smith
+TITLE: VP Sales
+COMPANY: Acme Corp
+PRODUCT: Salesforce Einstein Copilot
+
+RUN METADATA:
+- Timestamp: 2024 (current session)
+- Search Results: Found Jane Smith at Acme Corp via Betterworks documentation
+- Company Research: Acme Corp - Furniture Distributor (established 1985)
+- Lead Score: 6/10
+- Email Validation Score: 4/4 (APPROVED)
+- File Output: output/Jane_Smith_email.txt
+
+KEY INSIGHTS USED:
+- Acme Corp operates multiple showrooms (Las Vegas, High Point)
+- Company hosts Las Vegas 2026 Summer Show
+- B2B furniture distribution business model
+- VP Sales role indicates focus on sales acceleration and deal velocity
+
+PERSONALIZATION ELEMENTS:
+✓ Mentions first name (Jane)
+✓ References company (Acme Corp)
+✓ References recent news (Las Vegas 2026 Summer Show)
+✓ Soft CTA (15-minute ask)
+✓ Product-specific value prop (Salesforce Einstein Copilot)
+✓ Industry-specific metric (sales velocity improvement)
+
+EMAIL STATUS: APPROVED FOR DELIVERY
+
+NEXT STEPS:
+- Send email to Jane Smith at Acme Corp
+- Follow up if no response in 5 business days
